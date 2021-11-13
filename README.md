@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A dedicated backend developer from Brasil</h3>
 
-- 🔭 I’m currently working at **Drogaria Araújo**
+- 🔭 I’m currently working at **IBM Consulting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faeu680](https://github.com/Faeu680)
 
