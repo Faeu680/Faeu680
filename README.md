@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A dedicated backend developer from Brasil</h3>
+# Hi, I'm Rafael 👋
 
-- 🔭 I’m currently working at **IBM Consulting**
+**Senior Backend & AI Engineer** based in Belo Horizonte, Brazil (UTC-3), open to remote roles.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Faeu680](https://github.com/Faeu680)
+I build high-throughput, regulated backend systems with Java and Spring Boot, and I use LLM agents as a core part of how I engineer software.
 
-- 📫 How to reach me **rafael680ferreira@gmail.com**
+### What I've been building
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rafaelferreiraf/](https://www.linkedin.com/in/rafaelferreiraf/)
+- 📨 **Telecom (A2P SMS & payments):** scaled a core message processor ~2.2x on the same infrastructure (1M-message production run, zero loss or duplication) and delivered a bulk-campaign product sized for 50M messages/day.
+- 🏦 **Digital banking (fraud prevention):** cross-region liveness and identity verification for U.S. and Argentine regulations; an account-closure system that cut complaints by 20%.
+- 🛡️ **Insurance (Open Insurance Brazil):** led a team of 5 delivering regulatory microservices on Azure.
+- 🤖 **AI-assisted engineering:** a multi-agent Claude Code workflow for a 7-microservice platform, with an agent knowledge base, custom skills and hooks as guardrails, parallel subagents in isolated git worktrees, and human-gated merges.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rafaelferreiraf" target="blank"><img align="center" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" alt="rafael ferreira" height="30" width="40" /></a>
-<a href="https://instagram.com/fael_ferreiraf" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="fael_ferreiraf" height="30" width="35" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="mssql" width="40" height="35"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Tech
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faeu680&show_icons=true&theme=dracula&locale=en" alt="faeu680" /></p>
+Java (8–25) · Spring Boot · Micronaut · Kafka · RabbitMQ · AWS · Azure · Docker · Kubernetes · PostgreSQL · Oracle · DynamoDB · Redis · Jenkins · GitHub Actions · ArgoCD · LLM agents
 
+### Currently
+
+- 🎓 B.Sc. in Software Engineering at PUC Minas
+- 📜 Working toward the Claude Certified Architect – Professional certification
+
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/rafaelferreira-developer) · rafael680ferreira@gmail.com
+
+<sub>Most of my professional work lives in private client repositories.</sub>
